@@ -1,0 +1,35 @@
+﻿{
+  "name": "hsbank-api",
+  "version": "0.0.1",
+  "description": "fake api",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www"
+  },
+  "author": "QT",
+  "license": "ISC",
+  "devDependencies": {
+    "express":"^4",
+    "express-redirect":"",
+    "moment":"",
+    "debug": "",  
+    "connect-livereload":"",
+    "run-sequence": "",
+    "serve-favicon": "",
+    "deasync":"",
+    "body-parser":"",
+    "lodash":"",
+    "path-extra":"",
+    "gulp-nodemon":"",
+    "gulp": "",
+    "gulp-concat": "",
+    "gulp-connect": "",
+    "gulp-release-tasks": "",
+    "gulp-util": "",
+    "gulp-sftp":"",
+    "gulp-live-server":"https://github.com/heran/gulp-live-server.git",
+    "gulp-markdown":"",
+    "gulp-fakedocs":"https://github.com/heran/gulp-fakedocs.git"
+  }
+}
